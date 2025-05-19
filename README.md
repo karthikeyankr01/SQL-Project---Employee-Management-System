@@ -19,7 +19,7 @@ The database consists of 5 related tables:
 **Finance Team:** Contains finance team member details with relationships to managers
 
 ### Data model Diagram
-![Data model Diagram](https://github.com/karthikeyankr01/stock_market_analysis-end-to-end-data-engineering-project/blob/main/Architecture.png)
+![Data model Diagram](https://github.com/karthikeyankr01/SQL-Project---Employee-Management-System/blob/main/Data%20model.png)
 
 ### Install packages
 ```
